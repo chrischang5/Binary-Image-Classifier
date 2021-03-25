@@ -1,4 +1,4 @@
-# Binary-Image-Classifier
+#Binary-Image-Classifier
 
 This project demonstrates transfer learning using a pretrained ResNet18 CNN model that can distinguish between two tank models: M24 Chaffee and the M551 Sheridan. These are both tanks used during the Korean and Vietnam Wars respectively. By changing ResNet18's final classification layer to support classification of thr M24 Chaffee and M551 Sheridan, creating and formatting a dataset consisting of over 1500 photos, and experimenting with various optimizer and scheduler parameters, I was able to reach an accuracy of about 99%. 
 
